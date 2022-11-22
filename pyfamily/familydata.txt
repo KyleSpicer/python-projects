@@ -1,0 +1,49 @@
+idnumber	honorific	firstname	middlename	lastname	suffix	motherid	fatherid	gender	spouseid	hobby	dateofbirth	dateofdeath
+1		Farragut	Quentin	Spamford				m	2	cactus juggling	18490801	19020418
+2		Betty	Lou	Who				f	1	unicycling	18491222	19050505
+3	Duke	Roderick	Pyland	Hamworth	Esq			m	4	jello art	18510430	19220711
+4	Lady	Felicia	Redondo	Quagglemogg				f	3	jello art	18500705	19010818
+5	King	Guido	Frungleheim	Spamford	I	1	2	m	6	platypus racing	18701031	19491221
+6	Queen	Mayapple	Eulalia	Hamworth		3	4	f	5	toenail clipping	18700525	19500324
+7	Prince	Guido	Farnuggle	Spamford	II	5	6	m	11	platypus racing	18880101	19661111
+8	Prince	Timothy	Zenn	Spamford		5	6	m	15	platypus racing	18890606	19680614
+9	Princess	Ruby	Pearl	Spamford		5	6	f		unicycling	18901111	19561031
+10	Sir	Philo	Quentin	Toastley				m	16	toad husbandry	18550922	19050905
+11	Lady	Lavinia	Xavier	Hamworth		4	3	f	7	zeppelin repair	18730414	19410329
+12		Mary	Virginia	Toastley				f	14	water skiing	18680731	19100715
+13		Horace	Reginald	Spamford		11	7	m		toad husbandry	18730228	19410905
+14		Gerry	Aardmoore	Hamworth		4	3	m	12	underwater welding	18700616	19300918
+15		Beatrice	Klemk	Hamworth		4	3	f	8	underwater welding	18720823	19451205
+16		Alice	Patterson	Spamford		15	8	f	10	unicycling	19130925	19980205
+17		David	Rush	Hamworth		18	28	m	21	badger taming	19140627	19970823
+18		Carrie	Pyland	Hamworth		12	14	f	28	platypus racing	18940928	19551010
+19	Sir	Edgar	Estlin	Eggerey	I			m	24	platypus racing	18750218	19320726
+20		Franklin	Duncan	Spamford		15	8	m	36	badger taming	19170319	19991231
+21		Maxine	Boehm	Spamford		15	8	f	17	zeppelin repair	19150501	20020609
+22		Farley	Mowat	Toastley		16	10	m	26	badger taming	18920730	19440318
+23		Edgar	Allan	Toastley		16	10	m		toad husbandry	18880124	19180422
+24	Lady	Viola	Victoria	Hamworth		12	14	f	19	toaster collecting	18920814	19660831
+25		Gertrude	Lucas	Spamford		15	8	f		cactus juggling	19140509	19571228
+26		Alice	Batavia	Hamworth		12	14	f	22	jello art	18930207	19631121
+27		Georgina	Tamerlane	Hamworth		18	28	f	33	cactus juggling	19211201	19750525
+28		Frederick	Duquesne	Hamworth		12	14	m	18	underwater welding	18890415	19200117
+29		Monica	Phoebe	Eggerey		24	19	f	32	water skiing	19180330	19540129
+30		Phrynie	Fisher	Spamford		15	8	f	40	water skiing	19150522	19671124
+31		Edgar	Estlin	Eggerey	II	24	19	m	38	zeppelin repair	19140722	19730515
+32		Ellis	Edgar	Hamworth		18	28	m	29	zeppelin repair	19190222	19990922
+33		Thomas	Turner	Toastley		26	22	m	27	badger taming	19181103	19990915
+34		Terrance	Tuttlewhite	Toastley		26	22	m		toenail clipping	19180417	19970827
+35	Sir	William	Warbler	Toastley		27	33	m	42	toad husbandry	19410330	20010217
+36		Edwina	Eloise	Eggerey		24	19	f	20	zeppelin repair	19171002	19650301
+37		Montgomery	Throckmorton	Spamford		15	8	m		cactus juggling	19161013	19780414
+38		Alice	Liddell	Toastley		27	33	f	31	toenail clipping	19370419	LIVING
+39		Broderick	Usher	Spamford		36	20	m	41	zeppelin repair	19400123	LIVING
+40		Edgar	Estlin	Eggerey	III	38	31	m	30	cactus juggling	19420703	LIVING
+41		Mitzi	Sue	Hamworth		29	32	f	39	zeppelin repair	19411206	LIVING
+42	Lady	Rhonda	Rae	Eggerey		38	31	f	35	unicycling	19440821	LIVING
+43		Lantana	Moraine	Spamford		36	20	f		underwater welding	19440218	LIVING
+44		Quilla	Vermillion	Spamford		36	20	f	47	zeppelin repair	19470126	LIVING
+45		Laura	Petrie	Eggerey		30	40	f		unicycling	19621221	LIVING
+46		James	Sterling	Spamford		41	39	m		toaster collecting	19610831	LIVING
+47		William	George	Toastley		42	35	m	44	unicycling	19600618	LIVING
+48		Arthur	Raymond	Spamford		41	39	m		cactus juggling	19610219	LIVING
