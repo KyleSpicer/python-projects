@@ -1,0 +1,41 @@
+.TH utils_bank_account 1 "July 2022" "man(1) page"
+.SH NAME
+.PP
+db_utils_bank_accounts - Extract bank account objects by values of various properties.
+.SH DESCRIPTION
+.PP
+This program reads archived bank account data from a specific.txt file and creates a list from each unique line. This list is then available to be referenced by the functions within this module.
+.PP
+.SH FUNCTIONS
+.PP
+load_bank_accounts_from_file():
+function reads bankaccountinfo1A.txt and creates a database list from each unique line of data.
+.PP
+return_closed_acct_ids(): 
+function returns a list of account IDs corresponding to accounts with a status of "Closed"
+.PP
+accts_with_this_branch_id():
+function returns a list of BankAccount objects with the branch_id property of the user passed branch_id.
+.PP
+account_for_this_ID():
+function searches database for specified account id. If a value is found, the results will be returned. If not, returns None.
+.PP
+print_first_elem_if_not_empty():
+function searches database for specified branch id. Prints the total and first object of account found with specified branch id. Prints total and first object of closed accounts with specified branch id.
+.PP
+main():
+function is utilized to validate functions operability with various parameters.
+.SH LICENSE
+.PP
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+.PP
+This program was created as part of a class project for the 170D 
+Warrant Officer Basic Course. This program is not intended to be 
+used in any official capacity.
+.PP
+.SH
+.PP
+Copyright (C) 2022 Kyle D. Spicer
