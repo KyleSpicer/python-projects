@@ -10,8 +10,8 @@ def main():
     screen = pygame.display.set_mode((576, 1024))
     
     # load images
-    background = pygame.image.load("./images/background.jpg").convert()
-    background = pygame.transform.scale2x(background)
+    background = pygame.image.load("./images/spacebackground.jpg").convert()
+    # background = pygame.transform.scale2x(background)
     
     # bird = pygame.image.load("./santa.jpg").convert()
     
